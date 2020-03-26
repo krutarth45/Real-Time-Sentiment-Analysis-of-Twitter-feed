@@ -1,4 +1,4 @@
-# Real-Time-Sentiment-Analysis-of-Twitter-feed-on-PM-Modi
+# Real-Time-Sentiment-Analysis-of-Twitter-feed
 Sentiment Analysis of mentions of Politicians on Twitter
 
 Here for this project we need developer account of Twitter.
